@@ -8,14 +8,15 @@ com foco nas Request API
 
 <img src="./public/images/capa.jpg" alt="Capa Netflix" width="100%"><br><br>
 
-# API -> `https://www.themoviedb.org/settings/api` (The Movie DB) <br>
-# Lib -> `material-ui/icons`<br>
 
-### 🌌 Tecnologias 🌌
+# API
+`https://www.themoviedb.org/settings/api` (The Movie DB) <br>
 
-- Typescript
-- ReactJs
-- NextJs
+### 🌌 Tecnologia 🌌
+`ReactJS`<br>
+
+# Lib  
+`material-ui/icons`<br>
 
 ## Author
 

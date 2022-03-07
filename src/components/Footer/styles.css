@@ -1,0 +1,17 @@
+footer {
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #777;
+}
+
+footer > span {
+    margin: 0 5px;
+}
+
+footer > a {
+    color: #777;
+    text-decoration: none;
+    margin-left: 5px;
+}

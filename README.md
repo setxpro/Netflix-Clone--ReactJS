@@ -9,11 +9,11 @@ com foco nas Request API
 <img src="./public/images/capa.jpg" alt="Capa Netflix" width="100%"><br><br>
 
 
-# API <br> `https://www.themoviedb.org/settings/api` (The Movie DB) <br>
+# API <br><br> `https://www.themoviedb.org/settings/api` (The Movie DB) <br>
 
-# 🌌 Tecnologia 🌌<br>`ReactJS`<br>
+# 🌌 Tecnologia 🌌<br><br>`ReactJS`<br>
 
-# Lib <br>  `material-ui/icons`<br>
+# Lib <br><br>  `material-ui/icons`<br>
 
 ## Author
 

@@ -21,13 +21,13 @@ ReactJS
 
 ## 💾 Clone
 ```sh
-
+  https://github.com/setxpro/Netflix-Clone--ReactJS.git
 ```
 
 
 ## Author
 ```sh
-👤 **Patrick Anjos**
+👤 Patrick Anjos
 
 ```
 

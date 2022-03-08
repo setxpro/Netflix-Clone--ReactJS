@@ -9,22 +9,27 @@ com foco nas Request API
 <img src="./public/images/capa.jpg" alt="Capa Netflix" width="100%"><br><br>
 
 
-# API <br><br> `https://www.themoviedb.org/settings/api` (The Movie DB) <br>
+# API
+```sh
+https://www.themoviedb.org/settings/api (The Movie DB)
+```
 
 # 🌌 Tecnologia 🌌
-
-- `ReactJS`<br>
+```sh
+ReactJS
+```
 
 ## 💾 Clone
-
 ```sh
 
 ```
 
 
 ## Author
-
+```sh
 👤 **Patrick Anjos**
+
+```
 
 * Github: [@setxpro](https://github.com/setxpro)
 

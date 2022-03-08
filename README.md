@@ -11,9 +11,16 @@ com foco nas Request API
 
 # API <br><br> `https://www.themoviedb.org/settings/api` (The Movie DB) <br>
 
-# 🌌 Tecnologia 🌌<br><br>`ReactJS`<br>
+# 🌌 Tecnologia 🌌
 
-# Lib <br><br>  `material-ui/icons`<br>
+- `ReactJS`<br>
+
+## 💾 Clone
+
+```sh
+
+```
+
 
 ## Author
 

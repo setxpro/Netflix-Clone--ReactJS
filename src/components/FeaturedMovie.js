@@ -1,5 +1,6 @@
 import React from 'react';
 import './FeaturedMovie.css';
+import { Link } from 'react-router-dom';
 
 
 // eslint-disable-next-line import/no-anonymous-default-export
@@ -36,8 +37,8 @@ export default ({item}) => {
                         </div>
                         <div className='featured--description'>{description}</div>
                         <div className='featured--buttons'>
-                            <a href={`/watch/${item.id}`} className='featured--watchbutton'>► Assistir</a>
-                            <a href={`/list/add/${item.id}`} className='featured--mylistbutton'>+ Minha Lista</a>
+                            <Link to={`/watch/${item.id}`} className='featured--watchbutton'>► Assistir</Link>
+                            <Link to={`/list/add/${item.id}`} className='featured--mylistbutton'>+ Minha Lista</Link>
                         </div>
                         <div className='feature--genres'><strong>Gêneros:</strong> {genres.join(', ')}</div>                    
                     </div>
